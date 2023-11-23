@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkh0904&show_icons=true&theme=radical)
 <!--
 **hkh0904/hkh0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
