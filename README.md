@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 <span />
 <br>
+<br>
+<br>
   
 ## 📫 Connect with me:
 <span>
@@ -25,6 +27,8 @@
   <a href="mailto:xhzmqj09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="30"/></a>
 </span>
 
+<br>
+<br>
 <br>
 <br>
 <hr>
