@@ -13,7 +13,6 @@
   - 새로운 기술을 배우는데 주저함이 없고 배운 내용을 활용할 수 있는 개발자
 <div />
 <br>
-<br>
 
 ## 🔭 Languages and Tools
 #### Techs that I've used at least once<br>
@@ -46,13 +45,11 @@
 
 <br>
 <br>
-<br>
-<br>
 <hr>
 
 <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkh0904&layout=compact)](https://github.com/delay-100/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkh0904&layout=compact)](https://github.com/delay-100/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hkh0904)](https://solved.ac/hkh0904)
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhkh0904&count_bg=%23FFCA36&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
